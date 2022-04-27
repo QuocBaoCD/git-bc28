@@ -27,6 +27,9 @@ vd:git branch NameName
 10/ chuyển nhánh đẻ codde tiếp:
 lệnh: git checkout {branch name}
 vd: git checkout ACB
-
+11/ keet hopwj code cua 2 nhánh :
+ note: nếu muốn kêt hợp code vaò nhánh nào thi phải đứng o nhánh đó:
+ lệnh: git merge{branch name}
+ vd: git merge ACB
 
 note:*******
