@@ -16,6 +16,17 @@ ví dụ:git remote add origin https://github.com/QuocBaoCD/git-bc28.git
 6/kiểm tra add remote đã thanh công chưa: 
 lệnh: git remote
 
+7/ laay code: 
++leenhj: gif clone{ url_github}
+vd:git clone https://github.com/QuocBaoCD/git-bc28.git
+8/ kieemr tra co bao nhieu nhanh tren sourch code:
++lệnh: git branch
+9/ tao nhánh mới : 
+lệnh: git branch{name}
+vd:git branch NameName
+10/ chuyển nhánh đẻ codde tiếp:
+lệnh: git checkout {branch name}
+vd: git checkout ACB
 
 
 note:*******
