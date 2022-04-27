@@ -1,0 +1,21 @@
+1/ Khởi tạo Git:
+-lệnh: git init
+2/ Kiểm tra version git:
+-lệnh: git --version
+3/ đưa code lên github:
+-lệnh:
++"gid add ."
++gid commit -m "your commennt"
++git push
+4/ lệnh kiểm tra trạng thái của git:
+lệnh: git status
+
+5/ lệnh giup git biết địa chỉ :
+lệnh : git remote add{name} { url_github}
+ví dụ:git remote add origin https://github.com/QuocBaoCD/git-bc28.git
+6/kiểm tra add remote đã thanh công chưa: 
+lệnh: git remote
+
+
+
+note:*******
